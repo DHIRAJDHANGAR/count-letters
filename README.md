@@ -1,1 +1,1 @@
-# count how many letters present in string == "AAAABBBCCDAABB".
+# count how each letters present in string == "AAAABBBCCDAABB".
